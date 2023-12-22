@@ -1,0 +1,18 @@
+.group-list__add {
+  margin-top: 15px;
+}
+
+.age-group-price__header {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.age-group-price__header label {
+  flex: 1;
+}
+
+.age-group-price__item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}

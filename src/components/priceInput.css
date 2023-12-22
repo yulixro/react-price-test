@@ -1,0 +1,8 @@
+.price-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.price-input__text {
+  text-align: right;
+}
